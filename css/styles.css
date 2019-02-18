@@ -1,0 +1,42 @@
+.news-content {
+  position: relative;
+}
+
+.all-content{
+  margin: auto;
+  width: 50%;
+}
+
+.horse-meat-img {
+  width: 50%;
+  position: relative;
+  top: 5px;
+}
+
+
+.fixed-header {
+  width: 100%;
+  position: relative;
+  background-color: white;
+}
+
+body {
+  margin-top: 0px;
+}
+
+h1 {
+  margin: 0px auto 0px auto;
+  position: relative;
+}
+
+h3 {
+  position: relative;
+}
+
+.author {
+  font-weight: bold;
+}
+
+.date-published {
+ font-style: italic; 
+}
